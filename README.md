@@ -28,7 +28,7 @@ All datasets were merged and aligned at the daily frequency.
 ## Methodology
 
 ### Statement 1: Factor Significance Over the Full Period
-To identify which Fama–French factors significantly explain technology stock returns over the full sample, I estimated a multivariate OLS regression:
+To identify which Fama–French factors significantly explain technology stock returns over the full sample, we estimated a multivariate OLS regression:
 
 - Dependent variable: Daily stock returns  
 - Independent variables: Mkt–Rf, SMB, HML, RMW, CMA  
@@ -38,7 +38,7 @@ Hypotheses were tested using standard coefficient significance tests (p < 0.05).
 ---
 
 ### Statement 2: Market Sensitivity Before vs. During the AI Boom
-Given that Mkt–Rf exhibited the strongest explanatory power, I then examined whether technology stocks’ sensitivity to market-wide risk changed across regimes.
+Given that Mkt–Rf exhibited the strongest explanatory power, we then examined whether technology stocks’ sensitivity to market-wide risk changed across regimes.
 
 - Compared two one-year windows (2021–22 vs. 2023–24)
 - Estimated changes in responsiveness to Mkt–Rf
